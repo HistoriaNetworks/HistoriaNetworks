@@ -1,6 +1,6 @@
 # 👋 Willkommen auf meinem GitHub-Profil!
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Willkommen+bei+LuaException)
+![Profile Banner]([https://via.placeholder.com/1200x300?text=Willkommen+bei+LuaException](https://fakeimg.pl/1200x300/cccccc/690eba?text=Willkommen+bei+LuaException))
 
 ## Über mich  
 Hallo! Ich bin **LuaException**, ein passionierter Entwickler und Scripter mit Schwerpunkt auf **Garry's Mod**.  
